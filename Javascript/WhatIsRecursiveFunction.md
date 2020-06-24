@@ -2,7 +2,8 @@
 
     자기 함수 안에서 다시 자기를 호출하는 것이 재귀 함수이다.
 
-```var reFunction (){
+```
+var reFunction (){
     console.log(reFunction());
 };
 ```
