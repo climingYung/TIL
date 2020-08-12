@@ -19,7 +19,7 @@ call이나 apply로 Arrary에서 쓰이는 함수들을 불러와서 사용해�
 
 Array에 유용한 메서드를 사용할수 없다.(아예 사용 못하는건 아님)
 
-foreach에 key ,value
+foreach에 key ,value 같은걸 사용할 수없다.
 
 
 
